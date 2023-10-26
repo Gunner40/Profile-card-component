@@ -27,8 +27,8 @@ Challenge was to build out this profile card component and get it looking as clo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Gunner40/Profile-card-component
+- Live Site URL: https://gunner40.github.io/Profile-card-component/
 
 ## My process
 
@@ -54,7 +54,7 @@ I learned that it is possible to use multiple background images on the same elem
 background-image: url("./images/bg-pattern-top.svg"),
   url("./images/bg-pattern-bottom.svg");
 background-repeat: no-repeat;
-background-position: left -40% top 180%, right -40% bottom -610px;
+background-position: right 50vw bottom 50vh, left 50vw top 50vh;
 ```
 
 ## Author
